@@ -1,0 +1,13 @@
+Sentindo horário: Top > Right > Bottom > Left
+
+Caso defina apenas dois valores:
+
+padding 20px 40px;
+
+Top/Bottom > Right/Left
+	     Direi/Esquer
+	     
+Obs: Sempre no sentido horário.
+
+Para bordas, utilizar o "border-width", assim conseguimos atribuir valores os lados das bordas.
+
